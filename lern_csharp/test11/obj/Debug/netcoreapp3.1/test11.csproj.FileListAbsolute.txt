@@ -1,0 +1,12 @@
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/bin/Debug/netcoreapp3.1/test11.deps.json
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/bin/Debug/netcoreapp3.1/test11.runtimeconfig.json
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/bin/Debug/netcoreapp3.1/test11.runtimeconfig.dev.json
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/bin/Debug/netcoreapp3.1/test11.dll
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/bin/Debug/netcoreapp3.1/test11.pdb
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/obj/Debug/netcoreapp3.1/test11.csprojAssemblyReference.cache
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/obj/Debug/netcoreapp3.1/test11.AssemblyInfoInputs.cache
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/obj/Debug/netcoreapp3.1/test11.AssemblyInfo.cs
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/obj/Debug/netcoreapp3.1/test11.csproj.CoreCompileInputs.cache
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/obj/Debug/netcoreapp3.1/test11.dll
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/obj/Debug/netcoreapp3.1/test11.pdb
+/Users/kaiwarex/Documents/dev/lern_csharp/test11/obj/Debug/netcoreapp3.1/test11.genruntimeconfig.cache

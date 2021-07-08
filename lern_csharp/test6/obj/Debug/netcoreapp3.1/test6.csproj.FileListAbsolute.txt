@@ -1,0 +1,12 @@
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/bin/Debug/netcoreapp3.1/test6.deps.json
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/bin/Debug/netcoreapp3.1/test6.runtimeconfig.json
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/bin/Debug/netcoreapp3.1/test6.runtimeconfig.dev.json
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/bin/Debug/netcoreapp3.1/test6.dll
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/bin/Debug/netcoreapp3.1/test6.pdb
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/obj/Debug/netcoreapp3.1/test6.csprojAssemblyReference.cache
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/obj/Debug/netcoreapp3.1/test6.AssemblyInfoInputs.cache
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/obj/Debug/netcoreapp3.1/test6.AssemblyInfo.cs
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/obj/Debug/netcoreapp3.1/test6.csproj.CoreCompileInputs.cache
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/obj/Debug/netcoreapp3.1/test6.dll
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/obj/Debug/netcoreapp3.1/test6.pdb
+/Users/kaiwarex/Documents/dev/lern_csharp/test6/obj/Debug/netcoreapp3.1/test6.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+/Users/kaiwarex/Documents/dev/lern_csharp/test7_class/obj/Debug/netcoreapp3.1/test7_class.csprojAssemblyReference.cache
+/Users/kaiwarex/Documents/dev/lern_csharp/test7_class/obj/Debug/netcoreapp3.1/test7_class.AssemblyInfoInputs.cache
+/Users/kaiwarex/Documents/dev/lern_csharp/test7_class/obj/Debug/netcoreapp3.1/test7_class.AssemblyInfo.cs
+/Users/kaiwarex/Documents/dev/lern_csharp/test7_class/obj/Debug/netcoreapp3.1/test7_class.csproj.CoreCompileInputs.cache
