@@ -28,6 +28,7 @@ namespace test13
             Console.WriteLine(test.name);
             Car test2 = new Car("マイカー");
             Console.WriteLine(test2.name);
+            //hoge
         }
     }
 }
