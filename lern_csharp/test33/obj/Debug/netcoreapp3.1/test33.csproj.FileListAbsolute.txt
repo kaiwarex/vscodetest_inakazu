@@ -1,0 +1,12 @@
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/bin/Debug/netcoreapp3.1/test33.deps.json
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/bin/Debug/netcoreapp3.1/test33.runtimeconfig.json
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/bin/Debug/netcoreapp3.1/test33.runtimeconfig.dev.json
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/bin/Debug/netcoreapp3.1/test33.dll
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/bin/Debug/netcoreapp3.1/test33.pdb
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/obj/Debug/netcoreapp3.1/test33.csprojAssemblyReference.cache
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/obj/Debug/netcoreapp3.1/test33.AssemblyInfoInputs.cache
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/obj/Debug/netcoreapp3.1/test33.AssemblyInfo.cs
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/obj/Debug/netcoreapp3.1/test33.csproj.CoreCompileInputs.cache
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/obj/Debug/netcoreapp3.1/test33.dll
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/obj/Debug/netcoreapp3.1/test33.pdb
+/Users/kaiwarex/Documents/dev/vscodetest_inakazu/lern_csharp/test33/obj/Debug/netcoreapp3.1/test33.genruntimeconfig.cache
