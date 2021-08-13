@@ -6,6 +6,7 @@ while len(numbers)<10:
         print("中断されました")
         break
     if n in numbers:
+        
         continue
     numbers.append(n)
 else:
